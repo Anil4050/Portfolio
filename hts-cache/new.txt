@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+16:06:14	5254/5254	---M-Z	404	error ('Not%20Found')	text/html	etag:W/%2264d39a40-24a3%22	https://mhmzdev.github.io/robots.txt		(from )
+16:06:14	24246/24246	---M-Z	200	added ('OK')	text/html	etag:W/%226706543f-5eb6%22	https://mhmzdev.github.io/devfolio-jaspr/	C:/My%20Web%20Sites/web/mhmzdev.github.io/devfolio-jaspr/index.html	(from )
+16:06:15	96518/96518	---M-Z	200	added ('OK')	text/css	etag:%226696a8d8-546c%22	https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css	C:/My%20Web%20Sites/web/cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css	(from https://mhmzdev.github.io/devfolio-jaspr/)
